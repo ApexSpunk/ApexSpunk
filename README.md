@@ -29,14 +29,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
-
-
-<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
-<!--   <br/> -->
+<img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
+ <br/>
    <a href="https://github.com/vikram0976"><img alt="vikram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikram0976&custom_title=vikram0976's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
