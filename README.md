@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋 Hi, I'm Vikram Chaurasia!
+ 👋 Hi, I'm Chandan Kumar
 </h1>
  
 
@@ -21,7 +21,7 @@
 - 👨‍💻 This is [My Portfolio](https://vikram0976.github.io/vikram.github.io/)
 
 -  📄 This is [My Resume](https://drive.google.com/file/d/1AjeXYEo69tdwyLdKchCGIiFz1TuS1Swz/view?usp=sharing)
-- 📫 How to reach me: ...*chaurasiavikram23@gmail.com*
+- 📫 How to reach me: ...*indspunk@gmail.com*
 
 
 
@@ -29,18 +29,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-<img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
-<summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
- <br/>
-   <a href="https://github.com/vikram0976"><img alt="vikram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikram0976&custom_title=vikram0976's%20Contribution%20Graph&theme=react-dark" /></a>
+<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
+
+
+<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
+<!--   <br/> -->
+   <a href="https://github.com/ApexSpunk"><img alt="ApexSpunk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ApexSpunk&custom_title=ApexSpunk's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram0976" alt="vikram" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexSpunk" alt="ApexSpunk" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -55,11 +57,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikram0976&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikram0976&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikram0976&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikram0976&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikram0976&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApexSpunk&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ApexSpunk&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ApexSpunk&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ApexSpunk&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ApexSpunk&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -155,8 +157,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=vikram0976&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0976&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=ApexSpunk&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ApexSpunk&theme=algolia" />
 </p>
 
 
@@ -165,13 +167,13 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikram2312/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/ApexSpunk/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=vikram2312&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=ApexSpunk&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
