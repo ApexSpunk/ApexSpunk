@@ -4,7 +4,7 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" >
 </p>
 
 
@@ -15,8 +15,8 @@
 
 
 - 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
-- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
+- 👨‍💻 I’m currently learning ReactJs, NodeJs, ExpressJs, MongoDB, NextJs at Masai School.
+- 💬 Ask me about ReactJs, NodeJs, ExpressJs, MongoDB, NextJs, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://vikram0976.github.io/vikram.github.io/)
 
