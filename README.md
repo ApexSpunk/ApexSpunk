@@ -121,6 +121,12 @@
       </a>
       <br>JavaScript
     </td>
+	<td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29738/preview_image/nodejs-expressjs.jpg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Express
+    </td>
   </tr>
    <tr>
       <td align="center" width="96">
