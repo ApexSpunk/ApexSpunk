@@ -14,13 +14,13 @@
 
 
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
+- 🔭 I’m currently working on Frontend And Backend technologies 😅
 - 👨‍💻 I’m currently learning ReactJs, NodeJs, ExpressJs, MongoDB, NextJs at Masai School.
 - 💬 Ask me about ReactJs, NodeJs, ExpressJs, MongoDB, NextJs, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://vikram0976.github.io/vikram.github.io/)
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1AjeXYEo69tdwyLdKchCGIiFz1TuS1Swz/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/16EuiGX8dMwGwNQS6t6P5E62PpDvgsFuU/view?usp=sharing)
 - 📫 How to reach me: ...*indspunk@gmail.com*
 
 
