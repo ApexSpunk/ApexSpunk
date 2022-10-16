@@ -76,13 +76,13 @@
       <a href="#html5">
         <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b95218bebfed0f3c99f805d4ab48d52fcce96a249b0a&rid=giphy.gif&ct=s" width="48" height="48" alt="AWS" />
       </a>
-      <br>AWS
+      <br>ReactJs
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
+        <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="48" height="48" alt="Hibernate" />
       </a>
-      <br>Hibernate
+      <br>NodeJs
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
