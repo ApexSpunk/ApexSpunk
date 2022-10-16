@@ -10,7 +10,7 @@
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg" height="175px"/></a>
 
 
 
