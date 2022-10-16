@@ -10,7 +10,7 @@
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Why-we-use-ReactJS-for-our-projects-Illustration.jpg" height="175px"/></a>
 
 
 
