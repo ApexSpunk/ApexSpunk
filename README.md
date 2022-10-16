@@ -86,9 +86,9 @@
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
+        <img src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/610d75bbd917363ac7a1fec0_mongoDB.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Java
+      <br>MongoDB
     </td>
      <td align="center" width="96">
       <a href="#js">
