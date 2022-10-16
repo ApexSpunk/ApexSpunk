@@ -74,7 +74,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://img.icons8.com/color/344/amazon-web-services.png" width="48" height="48" alt="AWS" />
+        <img src="[https://img.icons8.com/color/344/amazon-web-services.png](https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b95218bebfed0f3c99f805d4ab48d52fcce96a249b0a&rid=giphy.gif&ct=s)" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
