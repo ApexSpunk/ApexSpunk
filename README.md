@@ -60,10 +60,11 @@ style="max-width: 100%;"> </a> &nbsp;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexSpunk" alt="ApexSpunk" /></a></p>
-
-
-
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=ApexSpunk" alt="ApexSpunk"/>
+	</a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -84,7 +85,7 @@ style="max-width: 100%;"> </a> &nbsp;
 
 ## 📊 My Github Stats
 
-<p align="left" style="margin-right:0px;padding-right:0px">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ApexSpunk&theme=algolia">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ApexSpunk&theme=algolia" />
 </p>
