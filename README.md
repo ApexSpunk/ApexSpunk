@@ -25,32 +25,41 @@
 - 📫 How to reach me: ...*indspunk@gmail.com*
 
 
+<h2></h2>
+
+<h2 align="left"> 💻 Languages and Tools:</h2>
+<br/>
+<p dir="auto"><a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&amp;labelColor=black&amp;logo=html5&amp;logoColor=orange" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&amp;labelColor=black&amp;logo=css3&amp;logoColor=blue" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=javascript&amp;logoColor=F0DB4F" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61DBFB" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=redux&amp;logoColor=007acc" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=609857" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&amp;labelColor=black&amp;logo=express&amp;logoColor=2361DAFB" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&amp;labelColor=black&amp;logo=mongoDB&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;labelColor=black&amp;logo=git&amp;logoColor=white" 
+style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;labelColor=black&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+</p>
+<br/>
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
-<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
 
 
-<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
-<!--   <br/> -->
+  <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
+  <br/>
    <a href="https://github.com/ApexSpunk"><img alt="ApexSpunk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ApexSpunk&custom_title=ApexSpunk's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexSpunk" alt="ApexSpunk" /></a></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -66,25 +75,6 @@
 	
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h2 align="left"> 💻 Languages and Tools:</h2>
-
-<p dir="auto"><a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&amp;labelColor=black&amp;logo=html5&amp;logoColor=orange" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&amp;labelColor=black&amp;logo=css3&amp;logoColor=blue" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=javascript&amp;logoColor=F0DB4F" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61DBFB" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=redux&amp;logoColor=007acc" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=609857" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&amp;labelColor=black&amp;logo=express&amp;logoColor=2361DAFB" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&amp;labelColor=black&amp;logo=mongoDB&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;labelColor=black&amp;logo=git&amp;logoColor=white" 
-style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;labelColor=black&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
-</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
