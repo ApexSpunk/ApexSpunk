@@ -71,92 +71,20 @@
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
-<table align="center">
-  <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b95218bebfed0f3c99f805d4ab48d52fcce96a249b0a&rid=giphy.gif&ct=s" width="48" height="48" alt="AWS" />
-      </a>
-      <br>ReactJs
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="48" height="48" alt="Hibernate" />
-      </a>
-      <br>NodeJs
-    </td>
-     <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/610d75bbd917363ac7a1fec0_mongoDB.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>MongoDB
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>MySQL
-    </td>
-<!--      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td> -->
-  </tr>
-   <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-       <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>JavaScript
-    </td>
-	<td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29738/preview_image/nodejs-expressjs.jpg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Express
-    </td>
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Netlify
-    </td>
-
-  </tr>
-</table>
+<p dir="auto"><a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&amp;labelColor=black&amp;logo=html5&amp;logoColor=orange" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&amp;labelColor=black&amp;logo=css3&amp;logoColor=blue" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=javascript&amp;logoColor=F0DB4F" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61DBFB" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=redux&amp;logoColor=007acc" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=609857" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&amp;labelColor=black&amp;logo=express&amp;logoColor=2361DAFB" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&amp;labelColor=black&amp;logo=mongoDB&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;labelColor=black&amp;logo=git&amp;logoColor=white" 
+style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;labelColor=black&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
