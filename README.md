@@ -55,7 +55,6 @@ style="max-width: 100%;"> </a> &nbsp;
   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/ApexSpunk"><img alt="ApexSpunk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ApexSpunk&custom_title=ApexSpunk's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
