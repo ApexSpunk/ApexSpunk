@@ -1,10 +1,11 @@
 <h1 align="center">
- 👋 Hi, I'm Chandan Kumar
-</h1>
- 
+ 👋 Hi, I'm Chandan Kumar!
+</h1><p>
+✨ I'm a Full Stack Web Developer who loves modern web technologies and passionate for developing scalable & customer-focused web applications using MERN Stack. Passionate about implementing new ideas in reality. Looking for the opportunity where I can utilize the extensive knowledge I have gained during my Full stack web development course😃. I focuses on writing clean, elegant and efficient code</p>
+
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" >
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨&zwj;💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&amp;font=Pacifico&amp;center=true&amp;width=650&amp;height=120&amp;color=58a6ff&amp;vCenter=true&amp;size=45%22" style="max-width: 100%;">
 </p>
 
 
