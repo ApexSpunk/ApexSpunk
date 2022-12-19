@@ -95,9 +95,10 @@ style="max-width: 100%;"> </a> &nbsp;
 
 ## Connect with me:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ApexSpunk/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-
+<p dir="auto">
+	  <a href="https://www.linkedin.com/in/ApexSpunk/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+ &nbsp;
+	 <a href="https://apexspunk.github.io/"> <img src="https://img.shields.io/badge/PortFolio-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 ## ❤ Views and Followers
